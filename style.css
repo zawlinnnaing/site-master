@@ -168,3 +168,20 @@ nav{
   background-color: #E0E0E0;
   border-radius: 5px;
 }
+.anounce{
+  /*border-top: solid 5px #FFEB3B;*/
+  background-color: #FFEB3B;
+  margin: 7px;
+  border-radius: 1rem;
+}
+.anounce p{
+    font-size: 1.5rem;
+    padding: 5px 39px;
+}
+.anounce_content{
+  margin: 7px;
+  margin-bottom: 3rem;
+  font-family: 'Josefin Sans', sans-serif;
+
+  font-size: 1.5rem;
+}
